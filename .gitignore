@@ -1,0 +1,13 @@
+# Ignore local environment files
+.env
+
+# Node / Python / system junk
+node_modules/
+__pycache__/
+*.log
+
+# Docker-related
+*.pid
+*.tmp
+.docker/
+docker-data/
